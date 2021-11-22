@@ -45,18 +45,25 @@
     display: grid;
     grid-template-columns: repeat(6, 50px);
     grid-template-rows: repeat(12, 50px);
+    margin-top:1250px;
+    margin-left: 250px;
     
 }
 .sTree {
     display: grid;
     grid-template-columns: repeat(6, 50px);
     grid-template-rows: repeat(12, 50px);
+    margin-top: 1170px;
+    margin-left: 150px;
     
 }
 .tTree {
     display: grid;
     grid-template-columns: repeat(6, 50px);
     grid-template-rows: repeat(12, 50px);
+    margin-top:1250px ;
+    margin-left: 150px;
+
     
 }
 
